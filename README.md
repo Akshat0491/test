@@ -1,3 +1,3 @@
 # test
 
-lie is a truth
+lie is the only truth
